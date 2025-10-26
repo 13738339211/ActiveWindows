@@ -33,7 +33,7 @@
 
 激活Windows的方法有多种，这里仅供研究方法。
 
-①最简单的方法（使用在线Windows自带的PowerShell命令）
+#### ①最简单的方法（使用在线Windows自带的PowerShell命令）
 
 Ⅰ、在搜索框搜索PowerShell，右键以管理员身份运行：
 
@@ -53,13 +53,34 @@
 | KMS38      | Windows10 Server、WIndows11 Server | 直到2038年      | 不需要       |
 | Online KMS | Windows、Office                    | 180天，可以续订 | 需要         |
 
-
+![](https://active.freedash.top/Resource/Pic/20251026_003.png)
 
 绿色图表的代表推荐，也就是1和2，都可以永久激活Windows和Office。
 
 那么只需要接着输入1或者2回车即可。
 
 我输入数字1，默认会一直操作，直到激活为止。
+
+![](https://active.freedash.top/Resource/Pic/20251026_004.png)
+
+#### ②使用HEU KMS软件激活
+
+可以去Github下载：[Releases · zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
+
+为什么不推荐这个，因为会被Windows自带的`Windows Defender`作为病毒杀掉，需要关闭`Windows Defender`，这里就劝退很多人了。
+
+#### ③使用正版Windows激活码激活
+
+| 版本   | 售价                                                    | 链接                                                         |
+| ------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| 家庭版 | 1088元人民币                                            | [微软 Windows11 家庭版购买-Win11激活密钥官网下载-微软官方商城](https://www.microsoftstore.com.cn/windows/windows-11-home) |
+| 专业版 | 在中国内，只能从家庭版升级专业版，在Microsoft Srote购买 | [将 Windows 家庭版升级到 Windows 专业版 - Microsoft 支持](https://support.microsoft.com/zh-cn/windows/将-windows-家庭版升级到-windows-专业版-ef34d520-e73f-3198-c525-d1a218cc2818) |
+
+## 二、Office
+
+个人有两个绑定账号的Office，一个是买笔记本送的，一个是在淘宝上买的；
+
+
 
 
 
