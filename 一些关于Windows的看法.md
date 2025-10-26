@@ -84,11 +84,24 @@
 
 刚好够两台电脑。
 
-1、下载Office
+### 1、下载Office
 
-- 如果在购买了Office后，就可以去官网下载
+- 如果在购买了Office后，就可以去官网下载，下载后直接安装打开即可激活使用。
 
+![](https://active.freedash.top/Resource/Pic/20251026_006.png)
 
+- 微软官网下载：
+
+  | 版本                              | 下载链接（点击即可下载）                                     |
+  | --------------------------------- | ------------------------------------------------------------ |
+  | Microsoft Office 365              | https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-CN/O365ProPlusRetail.img |
+  | Office ProPlus 2024（专业增强版） | https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2024Retail.img |
+  | Visio Pro 2024                    | https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/VisioPro2024Retail.img |
+  | Project Pro 2024                  | https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProjectPro2024Retail.img |
+
+### 2、激活Office
+
+参考Windows激活
 
 
 
