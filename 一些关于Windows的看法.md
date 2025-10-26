@@ -37,19 +37,29 @@
 
 Ⅰ、在搜索框搜索PowerShell，右键以管理员身份运行：
 
-![](https://active.freedash.top/Resource/Pic/20251026_001.webp)
+![](https://active.freedash.top/Resource/Pic/20251026_001.png)
 
 Ⅱ、输入`irm https://active.freedash.top/Resource/Active.txt | iex`或者`irm https://get.activated.win | iex`，然后回车，会得到下面这个页面。
 
-
+![](https://active.freedash.top/Resource/Pic/20251026_002.png)
 
 什么意思呢？
 
-|      |      |      |      |
-| ---- | ---- | ---- | ---- |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+| 激活类型   | 支持的产品                         | 激活期限        | 是否需要联网 |
+| ---------- | ---------------------------------- | --------------- | ------------ |
+| HWID       | Windows 10、Windows11              | 永久            | 需要         |
+| OHook      | Office                             | 永久            | 不需要       |
+| TSforge    | Windows、ESU、Office               | 永久            | 需要         |
+| KMS38      | Windows10 Server、WIndows11 Server | 直到2038年      | 不需要       |
+| Online KMS | Windows、Office                    | 180天，可以续订 | 需要         |
+
+
+
+
+
+
+
+
+
+
 
