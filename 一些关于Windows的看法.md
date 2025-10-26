@@ -37,11 +37,19 @@
 
 Ⅰ、在搜索框搜索PowerShell，右键以管理员身份运行：
 
-
+![](https://active.freedash.top/Resource/Pic/20251026_001.webp)
 
 Ⅱ、输入`irm https://active.freedash.top/Resource/Active.txt | iex`或者`irm https://get.activated.win | iex`，然后回车，会得到下面这个页面。
 
 
 
+什么意思呢？
 
+|      |      |      |      |
+| ---- | ---- | ---- | ---- |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
 
