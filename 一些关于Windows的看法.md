@@ -4,7 +4,7 @@
 
 ### 1、下载Windows
 
-- 下载Windows可以去微软官网下载，不推荐去其他地方下载，因为可能携带一些其他的东西。如果微软官网很难打开，可以去`Next I tell you`下载，这个里面的系统还行，没目前听说有什么病毒什么的，因为也是微软官网收录的。
+- 下载Windows可以去微软官网下载，不推荐去其他地方下载，因为可能携带一些其他的东西。如果微软官网很难打开，可以去`Next I tell you`[原版软件](https://next.itellyou.cn/Original/)下载，这个里面的系统还行，没目前听说有什么病毒什么的，因为也是微软官网收录的。
 
 - Windows7于2020年1月14 日正式停止更新维护服务；Windows10于2025年10月14日正式停止更新维护服务；停止更新服务意味着即使出现BUG也不会去修复，可能会遭到网络攻击，也可能会更容易中病毒。所以我的电脑全部更新到了Windows11。
 
@@ -45,13 +45,13 @@
 
 什么意思呢？
 
-| 激活类型   | 支持的产品                         | 激活期限        | 是否需要联网 |
-| ---------- | ---------------------------------- | --------------- | ------------ |
-| HWID       | Windows 10、Windows11              | 永久            | 需要         |
-| OHook      | Office                             | 永久            | 不需要       |
-| TSforge    | Windows、ESU、Office               | 永久            | 需要         |
-| KMS38      | Windows10 Server、WIndows11 Server | 直到2038年      | 不需要       |
-| Online KMS | Windows、Office                    | 180天，可以续订 | 需要         |
+|  激活类型  |             支持的产品             |    激活期限     | 是否需要联网 |
+| :--------: | :--------------------------------: | :-------------: | :----------: |
+|    HWID    |       Windows 10、Windows11        |      永久       |     需要     |
+|   OHook    |               Office               |      永久       |    不需要    |
+|  TSforge   |        Windows、ESU、Office        |      永久       |     需要     |
+|   KMS38    | Windows10 Server、WIndows11 Server |   直到2038年    |    不需要    |
+| Online KMS |          Windows、Office           | 180天，可以续订 |     需要     |
 
 ![](https://active.freedash.top/Resource/Pic/20251026_003.png)
 
